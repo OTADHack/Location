@@ -1,0 +1,1 @@
+{   "acceptableAccuracy": "400",   "address": "tel:1234",   "requestedAccuracy": "100",   "tolerance": "DelayTolerant" }
