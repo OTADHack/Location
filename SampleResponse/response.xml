@@ -1,0 +1,13 @@
+<ns2:terminalLocationList xmlns:ns2="urn:oma:xml:rest:terminallocation:1">
+   <terminalLocation>
+      <address>tel:1234</address>
+      <locationRetrievalStatus>Retrieved</locationRetrievalStatus>
+      <currentLocation>
+         <latitude>43.552776</latitude>
+         <longitude>7.012778</longitude>
+         <altitude>20.0</altitude>
+         <accuracy>10</accuracy>
+         <timestamp>2015-04-13T10:06:18.000+01:00</timestamp>
+      </currentLocation>
+   </terminalLocation>
+</ns2:terminalLocationList>
